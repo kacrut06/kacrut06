@@ -59,3 +59,6 @@ Check out [**sullivan.my.id**](https://sullivan.my.id) for more interesting blog
 [![Bash](https://img.shields.io/badge/Bash-%234eaa25?style=flat-square&logoColor=%23FFF&logo=gnu-bash)](https://www.gnu.org/software/bash)
 [![Firebase](https://img.shields.io/badge/Firebase-%23FFA611?style=flat-square&logoColor=%23FFF&logo=firebase)](https://firebase.google.com)
 [![Apache](https://img.shields.io/badge/Apache-%23557697?style=flat-square&logoColor=%23d12127&logo=apache)](https://httpd.apache.org)
+
+
+[![An image of @kacrut06's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/kacrut06)](https://holopin.io/@kacrut06)
