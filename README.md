@@ -1,16 +1,61 @@
-### Hi there 👋
 
-<!--
-**kacrut06/kacrut06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👋 Hi there, I'm Awan!
 
-Here are some ideas to get you started:
+a software engineer from Indonesia. I became software and web engineer over than 8 years;
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+- 🌱 Currently learning Laravel and Livewire<br />
+- ✨ Interested in **backend-ish** things<br />
+- 🏠 Rarely go out, unless it's important<br />
+
+
+### ☪️ Ayah of the Day
+
+<!-- AYAHADAY:START -->
+<sub>_The Cave_</sub><br>
+**Surah Al-Kahf** (18: 31)
+
+> It is they who will have the Gardens of Eternity, with rivers flowing under their feet. There they will be adorned with bracelets of gold, and wear green garments of fine silk and rich brocade, reclining there on ˹canopied˺ couches. What a marvellous reward! And what a fabulous place to rest!
+
+— Ramadhan 8, 1445H
+<!-- AYAHADAY:END -->
+
+### 📚 Recent Blog Posts
+
+<!-- HASHNODE_BLOG:START -->
+- [Customizing User Profile and Password Change Pages in Filament 3](https://notes.suluh.my.id/profile-page-filament-3)
+- [Ya Allah, Ajari Aku Cinta](https://notes.suluh.my.id/ya-allah-ajari-aku-cinta)
+- [90 Menit](https://notes.suluh.my.id/90-menit)
+- [How to Fix Proxmox (PVE) 6.4-15 to 7.x Upgrade Stuck at 57%](https://notes.suluh.my.id/pve-6415-to-7x-upgrade-stuck-at-57)
+- [Step-by-Step Guide to Install Portainer](https://notes.suluh.my.id/install-portainer-on-ubuntu)
+<!-- HASHNODE_BLOG:END -->
+
+Check out [**sullivan.my.id**](https://sullivan.my.id) for more interesting blog posts!
+
+### 🎯 Familiar Tech
+
+[![Git](https://img.shields.io/badge/Git-%23f34f29?style=flat-square&logoColor=%23FFF&logo=git)](https://git-scm.com)
+[![TypeScript](https://img.shields.io/badge/TypeScript-%23007acc?style=flat-square&logoColor=%23FFF&logo=typescript)](https://www.typescriptlang.org)
+[![Yarn](https://img.shields.io/badge/Yarn-%23FFFFFF?style=flat-square&logoColor=%232188b6&logo=yarn)](https://yarnpkg.com)
+[![Bun](https://img.shields.io/badge/Bun-%235d5986?style=flat-square&logoColor=%23fbf0df&logo=bun)](https://bun.sh)
+[![MySQL](https://img.shields.io/badge/MySQL-%2300758F?style=flat-square&logoColor=%23FFF&logo=mysql)](https://www.mysql.com)
+[![AdonisJS](https://img.shields.io/badge/AdonisJS-%235a45ff?style=flat-square&logoColor=%23FFF&logo=adonisjs)](https://adonisjs.com)
+[![SvelteKit](https://img.shields.io/badge/SvelteKit-%23ff3e00?style=flat-square&logoColor=%23FFF&logo=svelte)](https://svelte.dev)
+[![PHP](https://img.shields.io/badge/PHP-%238892BF?style=flat-square&logoColor=%23FFF&logo=php)](https://www.php.net)
+[![Svelte](https://img.shields.io/badge/Svelte-%23ff3e00?style=flat-square&logoColor=%23FFF&logo=svelte)](https://svelte.dev)
+[![Composer](https://img.shields.io/badge/Composer-%23FFF?style=flat-square&logoColor=%23222&logo=composer)](https://getcomposer.org)
+[![CodeIgniter](https://img.shields.io/badge/CodeIgniter-%23dd4814?style=flat-square&logoColor=%23FFF&logo=codeigniter)](https://codeigniter.com)
+[![NPM](https://img.shields.io/badge/npm-%23C53635?style=flat-square&logoColor=%23FFF&logo=npm)](https://www.npmjs.com)
+[![Fastify](https://img.shields.io/badge/Fastify-%23202020?style=flat-square&logoColor=%23FFF&logo=fastify)](https://www.fastify.io)
+[![JavaScript](https://img.shields.io/badge/JavaScript-%23f0db4f?style=flat-square&logoColor=%23333&logo=javascript)](https://www.javascript.com)
+[![Redis](https://img.shields.io/badge/Redis-%23FFF?style=flat-square&logoColor=%23FF6600&logo=redis)](https://redis.io)
+[![SCSS](https://img.shields.io/badge/SCSS-%23E0A3C2?style=flat-square&logoColor=%23333&logo=sass)](https://sass-lang.com)
+[![jQuery](https://img.shields.io/badge/jQuery-%230769ad?style=flat-square&logoColor=%23FFF&logo=jquery)](https://jquery.com)
+[![Bootstrap](https://img.shields.io/badge/Bootstrap-%237952b3?style=flat-square&logoColor=%23FFF&logo=bootstrap)](https://getbootstrap.com)
+[![Express.js](https://img.shields.io/badge/Express.js-%23404d59?&style=flat-square&logoColor=%23FFF&logo=express)](https://expressjs.com)
+[![Docker](https://img.shields.io/badge/Docker-%23002c66?style=flat-square&logoColor=%23FFF&logo=docker)](https://www.docker.com)
+[![Nginx](https://img.shields.io/badge/Nginx-%23222?style=flat-square&logoColor=%23009639&logo=nginx)](https://www.nginx.com)
+[![SQLite](https://img.shields.io/badge/SQLite-blue?style=flat-square&logoColor=%23FFF&logo=sqlite)](https://www.sqlite.org)
+[![Bash](https://img.shields.io/badge/Bash-%234eaa25?style=flat-square&logoColor=%23FFF&logo=gnu-bash)](https://www.gnu.org/software/bash)
+[![Firebase](https://img.shields.io/badge/Firebase-%23FFA611?style=flat-square&logoColor=%23FFF&logo=firebase)](https://firebase.google.com)
+[![Apache](https://img.shields.io/badge/Apache-%23557697?style=flat-square&logoColor=%23d12127&logo=apache)](https://httpd.apache.org)
